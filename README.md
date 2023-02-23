@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/alexscamg">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   
-  <a href="https://tryhackme.com/p/Juanje">
-    <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
+  <!-- <a href="https://tryhackme.com/p/Juanje">
+    <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>-->
 </p>
 
 - 🔭 Actualmente estoy trabajando en **documentar lo mejor posible mis prácticas del grado superior para publicar dicha documentación en unos meses**
