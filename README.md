@@ -81,13 +81,15 @@
   <b>Datos sobre mi GitHub:</b>
 </h2>
 
+<!-- Visitantes-->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="alexscamg"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JuanJesusAlejoSillero&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="JuanJesusAlejoSillero" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alexscamg&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="JuanJesusAlejoSillero" />
   </a>
 </p>
 
