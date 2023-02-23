@@ -14,13 +14,13 @@
 
 - 🔭 Actualmente estoy trabajando en **documentar lo mejor posible mis prácticas del grado superior para publicar dicha documentación en unos meses**
 
-- 🌱 Y estoy aprendiendo de forma autodidacta sobre **seguridad informática**
+- 🌱 Y estoy aprendiendo de forma autodidacta sobre **mas lengujaes y sistemas**
 
 - 🤝 Me vendría bien ayuda en [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/JuanJesusAlejoSillero?tab=repositories)
 
-- ⚡ Puedo ayudarte con **sistemas operativos, bases de datos, redes...**
+- ⚡ Puedo ayudarte con **Git, Docker, Python, Java, MySql, Html, CSS, XML...**
 
-- 📫 Puedes contactarme por LinkedIn o por email, a la dirección **juanjesusalejosillero@gmail.com**
+- 📫 Puedes contactarme por LinkedIn o por email, a la dirección **hola@alexsc.dev**
 
 <h2 align="center">
   <b>Algunas tecnologías y herramientas que utilizo:</b>
@@ -82,7 +82,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="JuanJesusAlejoSillero"/>
+  <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="alexscamg"/>
 </p>
 
 <p align="center">
