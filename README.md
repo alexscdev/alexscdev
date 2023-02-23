@@ -68,9 +68,9 @@
   </a>
 </p>
 
-<h2 align="center">
+ <!--<h2 align="center">
   <b>Datos sobre mi GitHub:</b>
-</h2>
+</h2>-->
 
 <!-- Visitantes-->
 
