@@ -17,11 +17,11 @@
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>-->
 </p>
 
-- 🔭 Actualmente estoy trabajando en **documentar lo mejor posible mis prácticas del grado superior para publicar dicha documentación en unos meses**
+- 🔭 Actualmente estoy trabajando en **proyectos propios con herramientas como docker y git para aprender su manejo perfectamente**
 
 - 🌱 Y estoy aprendiendo de forma autodidacta sobre **mas lengujaes y sistemas**
 
-- 🤝 Me vendría bien ayuda en [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/alexscamg?tab=repositories)
+- 🤝 Te agradeceria [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/alexscamg?tab=repositories)
 
 - ⚡ Puedo ayudarte con **Git, Docker, Python, Java, MySql, Html, CSS, XML...**
 
