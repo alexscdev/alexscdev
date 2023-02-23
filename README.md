@@ -2,12 +2,17 @@
 <h2 align="center"><b>Estudiante de DAM 🎓</b></h2>
 
 <p align="center">
+  
   <a href="https://github.com/JuanJesusAlejoSillero?tab=followers">
     <img alt="Seguidores" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>
+  
   <a href="https://github.com/JuanJesusAlejoSillero?tab=repositories&sort=stargazers">
     <img alt="Estrellas totales en GitHub" title="Estrellas totales en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JuanJesusAlejoSillero?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>
-  <a href="https://www.linkedin.com/in/JuanJesusAlejoSillero">
+  
+  <!-- Linkedin-->
+  <a href="https://www.linkedin.com/in/alexscamg">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  
   <a href="https://tryhackme.com/p/Juanje">
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>
 </p>
