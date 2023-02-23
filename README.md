@@ -3,11 +3,11 @@
 
 <p align="center">
   
-  <a href="https://github.com/JuanJesusAlejoSillero?tab=followers">
-    <img alt="Seguidores" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>
+  <!--<a href="https://github.com/alexscamg?tab=followers">
+    <img alt="Seguidores" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>-->
   
-  <a href="https://github.com/JuanJesusAlejoSillero?tab=repositories&sort=stargazers">
-    <img alt="Estrellas totales en GitHub" title="Estrellas totales en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JuanJesusAlejoSillero?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>
+  <!--<a href="https://github.com/alexscamg?tab=repositories&sort=stargazers">
+    <img alt="Estrellas totales en GitHub" title="Estrellas totales en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JuanJesusAlejoSillero?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>-->
   
   <!-- Linkedin-->
   <a href="https://www.linkedin.com/in/alexscamg">
@@ -21,7 +21,7 @@
 
 - 🌱 Y estoy aprendiendo de forma autodidacta sobre **mas lengujaes y sistemas**
 
-- 🤝 Me vendría bien ayuda en [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/JuanJesusAlejoSillero?tab=repositories)
+- 🤝 Me vendría bien ayuda en [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/alexscamg?tab=repositories)
 
 - ⚡ Puedo ayudarte con **Git, Docker, Python, Java, MySql, Html, CSS, XML...**
 
@@ -89,23 +89,23 @@
 <!-- Visitantes-->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="alexscamg"/>
+ <!-- <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="alexscamg"/>-->
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=alexscamg&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="JuanJesusAlejoSillero" />
-  </a>
+  </a>-->
 </p>
 
 <p align="center">
-  <a href="https://github.com/JuanJesusAlejoSillero">
+ <!-- <a href="https://github.com/JuanJesusAlejoSillero">
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es" alt="GitHub Stats">
-  </a>
-  <a href="https://github.com/JuanJesusAlejoSillero">
+  </a>-->
+  <!--<a href="https://github.com/JuanJesusAlejoSillero">
     <img src="https://streak-stats.demolab.com?user=JuanJesusAlejoSillero&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/JuanJesusAlejoSillero">
+  </a>-->
+  <!--<a href="https://github.com/JuanJesusAlejoSillero">
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs/?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
-  </a>
+  </a>-->
 </p>
