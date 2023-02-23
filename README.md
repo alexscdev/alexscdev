@@ -57,6 +57,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="jekyll" width="40" height="40"/>
+  </a>
+  <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="jekyll" width="40" height="40"/>
+  </a>
 </p>
 
 <h2 align="center">
