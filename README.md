@@ -75,8 +75,7 @@
 Visitantes
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=alexscamg&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="alexscamg"/>
-  <img src="https://komarev.com/ghpvc/?username=alexscamg&style=plastic&color=green"/>
+ <img src="https://komarev.com/ghpvc/?username=alexscamg&label=Eres%20el%20visitante%20Nº&color=brightgreen&style=flat" alt="alexscamg"/>
 </p>
 
 <p align="center">
