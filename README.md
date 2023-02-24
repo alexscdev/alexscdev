@@ -82,18 +82,19 @@ Visitantes
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=alexscamg&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="alexscamg" />
   </a>-->
-</p>
 
 <p align="center">
  <!--<a href="https://github.com/alexscamg">
-    <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexscamg&amp;theme=transparent&amp;show_icons=true&amp;locale=es" alt="GitHub Stats">
   </a>-->
+</p>
 
-
+<p>
   <a href="https://github.com/alexscamg">
     <img src="https://streak-stats.demolab.com?user=alexscamg&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
   </a>
-  
+  </p>
+  <p>
   <a href="https://github.com/alexscamg">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexscamg&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
   </a>
