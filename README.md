@@ -68,14 +68,14 @@
   </a>
 </p>
 
- <!--<h2 align="center">
+ <h2 align="center">
   <b>Datos sobre mi GitHub:</b>
-</h2>-->
+</h2>
 
-<!-- Visitantes-->
+Visitantes
 
 <p align="center">
- <!-- <img src="https://komarev.com/ghpvc/?username=JuanJesusAlejoSillero&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="alexscamg"/>-->
+ <img src="https://komarev.com/ghpvc/?username=alexscamg&label=Eres%20el%20visitante%20Nº&color=0e75b6&style=for-the-badge" alt="alexscamg"/>
 </p>
 
 <p align="center">
