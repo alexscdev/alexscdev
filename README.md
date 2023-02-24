@@ -95,6 +95,6 @@ Visitantes
   </a>
   
   <a href="https://github.com/alexscamg">
-    <img src="https://github-readme-stats-alexscamg.vercel.app/api/top-langs/?username=alexscamg&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexscamg&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
   </a>
 </p>
