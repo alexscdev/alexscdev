@@ -74,7 +74,6 @@
   <b>Datos sobre mi GitHub:</b>
 </h2>
 
-Visitantes
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=alexscamg&label=Eres%20el%20visitante%20Nº&color=brightgreen&style=flat" alt="alexscamg"/>
