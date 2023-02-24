@@ -20,13 +20,14 @@
 
 - 🔭 Actualmente estoy trabajando en **proyectos propios con herramientas como docker y git para aprender su manejo perfectamente**
 
-- 🌱 Y estoy aprendiendo de forma autodidacta sobre **mas lengujaes y sistemas**
-
-- 🤝 Te agradeceria [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/alexscamg?tab=repositories)
+- 🌱 Y estoy aprendiendo de forma autodidacta sobre **mas lenguajes y herramientas**
 
 - ⚡ Puedo ayudarte con **Git, Docker, Python, Java, MySql, Html, CSS, XML...**
 
+- 🤝 Te agradeceria [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/alexscamg?tab=repositories)
+
 - 📫 Puedes contactarme por LinkedIn o por email, a la dirección **hola@alexsc.dev**
+
 
 <h2 align="center">
   <b>Algunas tecnologías y herramientas que utilizo:</b>
