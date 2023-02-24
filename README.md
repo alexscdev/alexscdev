@@ -88,14 +88,13 @@ Visitantes
  <!--<a href="https://github.com/alexscamg">
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es" alt="GitHub Stats">
   </a>-->
+
+
+  <a href="https://github.com/alexscamg">
+    <img src="https://streak-stats.demolab.com?user=alexscamg&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
+  </a>
   
-  <!--<a href="https://github.com/JuanJesusAlejoSillero">
-    <img src="https://streak-stats.demolab.com?user=JuanJesusAlejoSillero&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
-  </a>-->
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexscamg91&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  <a href="https://github.com/JuanJesusAlejoSillero">
+  <a href="https://github.com/alexscamg">
     <img src="https://github-readme-stats-juanjesusalejosillero.vercel.app/api/top-langs/?username=JuanJesusAlejoSillero&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
   </a>
 </p>
