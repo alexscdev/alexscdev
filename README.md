@@ -78,10 +78,10 @@ Visitantes
  <img src="https://komarev.com/ghpvc/?username=alexscamg&label=Eres%20el%20visitante%20Nº&color=brightgreen&style=flat" alt="alexscamg"/>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=alexscamg&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="alexscamg" />
-  </a>
+  </a>-->
 </p>
 
 <p align="center">
