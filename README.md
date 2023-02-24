@@ -1,16 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<head>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SVGZJW6E2P"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SVGZJW6E2P');
-</script>
-  </head>
-
-
 
 <h1 align="center"><b>Bienvenid@ a mi GitHub, soy Alejandro 👨🏻‍💻</b></h1>
 <h2 align="center"><b>Estudiante de DAM 🎓</b></h2>
