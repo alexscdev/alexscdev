@@ -106,13 +106,14 @@
 
 ###### Mis Sistemas Operativos
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=6272a4)
 
 ###### Development
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6272a4)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Css3&logoColor=white&color=6272a4)
 
 ###### Tools & DevOps
 
