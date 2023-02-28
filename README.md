@@ -101,3 +101,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexscamg&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
   </a>
 </p>
+
+### :desktop_computer: Favorite Techs
+
+###### Operational Systems
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6272a4)
+
+###### Development
+
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=Css3&logoColor=white&color=6272a4)
+
+###### Tools & DevOps
+
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6272a4)
