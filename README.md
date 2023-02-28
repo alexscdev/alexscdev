@@ -106,7 +106,7 @@
 
 ###### Mis Sistemas Operativos
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6272a4)
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=windows&logoColor=white&color=6272a4)
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=mac&logoColor=white&color=6272a4)
 
 ###### Development
 
