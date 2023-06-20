@@ -74,7 +74,7 @@
   </a>
   <!-- Swift-->
   <a href="https://www.apple.com/es/swift/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="Swift" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
   </a>
 </p>
 
