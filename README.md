@@ -26,10 +26,6 @@
 
 - 🌱 Y estoy aprendiendo de forma autodidacta sobre **mas lenguajes y herramientas**
 
-- ⚡ Puedo ayudarte con **Git, Docker, Python, Java, MySql, Html, CSS, XML...**
-
-- 🤝 Te agradeceria [**cualquier cosa que puedas mejorar de mis repositorios**](https://github.com/alexscamg?tab=repositories)
-
 - 📫 Puedes contactarme por LinkedIn o por email, a la dirección **hola@alexsc.dev**
 
 
@@ -60,17 +56,25 @@
 </p>
 
 <p align="center">
+  <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <!-- Java -->
   <a href="https://java.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40"/>
   </a>
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
   </a>
+  <!-- XML -->
   <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="Xml" width="40" height="40"/>
+  </a>
+  <!-- Swift-->
+  <a href="https://www.apple.com/es/swift/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/swift/swift-official.svg" alt="Swift" width="40" height="40"/>
   </a>
 </p>
 
