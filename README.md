@@ -1,6 +1,5 @@
 
 <h1 align="center"><b>Bienvenid@ a mi GitHub, soy Alejandro 👨🏻‍💻</b></h1>
-<h2 align="center"><b>Estudiante de DAM 🎓</b></h2>
 
 <p align="center">
   
@@ -11,7 +10,7 @@
     <img alt="Estrellas totales en GitHub" title="Estrellas totales en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JuanJesusAlejoSillero?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>-->
   
   <!-- Linkedin-->
-  <a href="https://www.linkedin.com/in/alexscamg">
+  <a href="https://www.linkedin.com/in/alexscdev">
     <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   
   <!-- Linktree-->
@@ -84,22 +83,22 @@
 
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=alexscamg&label=Eres%20el%20visitante%20Nº&color=brightgreen&style=flat" alt="alexscamg"/>
+ <img src="https://komarev.com/ghpvc/?username=alexscdev&label=Eres%20el%20visitante%20Nº&color=brightgreen&style=flat" alt="alexscamg"/>
 </p>
 
 <!--<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alexscamg&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="alexscamg" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alexscdev&theme=darkhub&no-frame=true&no-bg=true&column=4" alt="alexscamg" />
   </a>-->
 
 <p align="center">
- <!--<a href="https://github.com/alexscamg">
+ <!--<a href="https://github.com/alexscdev">
     <img src="https://github-readme-stats.vercel.app/api?username=alexscamg&amp;theme=transparent&amp;show_icons=true&amp;locale=es" alt="GitHub Stats">
   </a>-->
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexscamg">
+  <a href="https://github.com/alexscdev">
     <img src="https://streak-stats.demolab.com?user=alexscamg&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
   </a>
   </p>
