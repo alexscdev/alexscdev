@@ -21,9 +21,7 @@
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>-->
 </p>
 
-- 🔭 Actualmente estoy trabajando en **proyectos propios con herramientas como docker y git para aprender su manejo perfectamente**
-
-- 🌱 Y estoy aprendiendo de forma autodidacta sobre **mas lenguajes y herramientas**
+- 🔭 Estoy constantemente creando y trabajando en **proyectos propios para no dejar de adquirir conocimientos nuevos que me ayuden a crecer**
 
 - 📫 Puedes contactarme por LinkedIn o por email, a la dirección **hola@alexsc.dev**
 
@@ -71,10 +69,6 @@
   <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="Xml" width="40" height="40"/>
   </a>
-  <!-- Swift-->
-  <a href="https://www.apple.com/es/swift/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="Swift" width="40" height="40"/>
-  </a>
 </p>
 
  <h2 align="center">
@@ -99,20 +93,20 @@
 
 <p align="center">
   <a href="https://github.com/alexscdev">
-    <img src="https://streak-stats.demolab.com?user=alexscamg&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com?user=alexscdev&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
   </a>
   </p>
   
   <p align="center">
   <a href="https://github.com/alexscamg">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexscamg&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexscdev&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
   </a>
 </p>
 
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![alexscamg's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexscamg&theme=github-compact)](https://github.com/alexscamg/github-readme-activity-graph)
+[![alexscamg's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexscdev&theme=github-compact)](https://github.com/alexscamg/github-readme-activity-graph)
 
 <!-- Snake -->
-![](https://github.com/alexscamg/alexscamg/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/alexscdev/alexscdev/blob/output/github-contribution-grid-snake.svg)
