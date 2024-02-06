@@ -102,11 +102,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexscdev&amp;theme=transparent&amp;show_icons=true&amp;locale=es&amp;layout=compact" alt="Top Langs">
   </a>
 </p>
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![alexscamg's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alexscdev&theme=github-compact)](https://github.com/alexscamg/github-readme-activity-graph)
-
-<!-- Snake -->
-![](https://github.com/alexscdev/alexscdev/blob/output/github-contribution-grid-snake.svg)
