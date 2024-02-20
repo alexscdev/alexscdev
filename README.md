@@ -4,10 +4,10 @@
 <p align="center">
   
   <!--<a href="https://github.com/alexscamg?tab=followers">
-    <img alt="Seguidores" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/JuanJesusAlejoSillero?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>-->
+    <img alt="Seguidores" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/alexscdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow%20Me&logoColor=white"/></a>-->
   
   <!--<a href="https://github.com/alexscamg?tab=repositories&sort=stargazers">
-    <img alt="Estrellas totales en GitHub" title="Estrellas totales en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JuanJesusAlejoSillero?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>-->
+    <img alt="Estrellas totales en GitHub" title="Estrellas totales en GitHub" src="https://custom-icon-badges.demolab.com/github/stars/alexscdev?color=yellow&style=for-the-badge&labelColor=yellow&logo=star"/></a>-->
   
   <!-- Linkedin-->
   <a href="https://www.linkedin.com/in/alexscdev">
@@ -21,7 +21,7 @@
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>-->
 </p>
 
-- 🔭 Estoy constantemente creando y trabajando en **proyectos propios para no dejar de adquirir conocimientos nuevos que me ayuden a crecer**
+- 🔭 Actualmente trabajando y creando <img alt="LinkedIn" title="LinkedIn" src="https://github.com/alexscdev/alexscdev/blob/main/logoGetDisruptions.png?raw=true" width="20" height="20"/> [Get Disruptions](https://alexscdev.notion.site/Release-Notes-409ea9cbbf864aa1ad569727545b8f1f)
 
 - 📫 Puedes contactarme por LinkedIn o por email, a la dirección **hola@alexsc.dev**
 
