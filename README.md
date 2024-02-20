@@ -21,7 +21,7 @@
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>-->
 </p>
 
-- 🔭 Actualmente trabajando y creando <img alt="LinkedIn" title="LinkedIn" src="https://github.com/alexscdev/alexscdev/blob/main/logoGetDisruptions.png?raw=true" width="20" height="20"/> [Get Disruptions](https://alexscdev.notion.site/Release-Notes-409ea9cbbf864aa1ad569727545b8f1f)
+- 🔭 Actualmente trabajando y creando <img alt="LinkedIn" title="LinkedIn" src="https://github.com/alexscdev/alexscdev/blob/main/logoGetDisruptions.png?raw=true" width="20" height="20"/> [Get Disruptions](https://www.getdisruptions.com/)
 
 - 📫 Puedes contactarme por LinkedIn o por email, a la dirección **hola@alexsc.dev**
 
