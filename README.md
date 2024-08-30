@@ -21,7 +21,8 @@
     <img alt="TryHackMe" title="TryHackMe" src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/></a>-->
 </p>
 
-- 🔭 Actualmente trabajando y creando <img alt="LinkedIn" title="LinkedIn" src="https://github.com/alexscdev/alexscdev/blob/main/logoGetDisruptions.png?raw=true" width="20" height="20"/> [Get Disruptions](https://www.getdisruptions.com/)
+- 🔭 Actualmente trabajando y creando <img alt="Get Disruption Logo" title="GetDisruptions" src="https://github.com/alexscdev/alexscdev/blob/main/logoGetDisruptions.png?raw=true" width="20" height="20"/> [Get Disruptions](https://www.getdisruptions.com/)
+- 🔭 Actualmente trabajando y creando <img alt="Get Disruption Logo" title="GetDisruptions" src="https://github.com/alexscdev/alexscdev/blob/main/logoMasterVerbs.png?raw=true" width="20" height="20"/> [Master Verbs](https://www.masterverbs.com/)
 
 - 📫 Puedes contactarme por LinkedIn o por email, a la dirección **hola@alexsc.dev**
 
@@ -69,6 +70,10 @@
   <a href="https://www.w3schools.com/xml/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="Xml" width="40" height="40"/>
   </a>
+  <a href="https://www.odoo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/odoo.svg" alt="Odoo logo" width="80" height="40"/>
+  </a>
+  
 </p>
 
  <h2 align="center">
@@ -92,9 +97,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexscdev">
+  <!--<a href="https://github.com/alexscdev">
     <img src="https://streak-stats.demolab.com?user=alexscdev&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_radius=5&amp;locale=es" alt="GitHub Streak">
-  </a>
+  </a>-->
   </p>
   
   <p align="center">
